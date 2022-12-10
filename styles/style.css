@@ -8,6 +8,7 @@ p {
   display: block;
   text-align: center;
   margin: 25px 25px 25px;
+  font-size: 25px;
 }
 .croissant-photo {
   max-width: 25%;
